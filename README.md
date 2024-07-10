@@ -2,10 +2,10 @@ This project demonstrates the use of WebRTC (Web Real-Time Communication) to ena
 This project contains features such as, real-time video and audio communication, creating private rooms, and controls that allow users to mute their audio and turn off their camara. 
 
 Technology used: 
-WebRTC API
-HTML
-CSS
-JavaScript 
+WebRTC API,
+HTML,
+CSS,
+JavaScript,
 agora.IO (for signaling between peers)
 
 How to use it?
